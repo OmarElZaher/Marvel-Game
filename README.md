@@ -49,8 +49,11 @@ Each champion has the following attributes and characteristics:-
 Abilities:-
 
 These are special attacks that a champion can use. They are categorized under the following categories:-
+  
   • Damaging abilities: Abilities that deal damage to the opponent champion(s) or covers.
+  
   • Healing abilities: Abilities that restore health points to friendly champion(s).
+  
   • Effect abilities: Abilities that can empower or weaken their targets by applying different effects. These effects can last for multiple turns and will affect how the affected champion interacts or reacts to abilities or attacks.
     
     Example of some effects: stun, weaken, embrace, shield, silence, disarm.
