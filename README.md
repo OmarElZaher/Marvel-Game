@@ -18,7 +18,7 @@ Champions are the fighters that each player will form his team from. Each champi
 
 The available champions along with their corresponding type:-
   
-  Champion Type
+  Champion - Type
   
   Captain America - Hero
   
