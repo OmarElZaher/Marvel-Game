@@ -47,6 +47,7 @@ Each champion has the following attributes and characteristics:-
         – Use Leader Ability (only if champion is the player’s chosen leader)
         
 Abilities:-
+
 These are special attacks that a champion can use. They are categorized under the following categories:-
   • Damaging abilities: Abilities that deal damage to the opponent champion(s) or covers.
   • Healing abilities: Abilities that restore health points to friendly champion(s).
@@ -58,6 +59,7 @@ These are special attacks that a champion can use. They are categorized under th
     Finally, some abilities can affect all friendly or opposing champions. Each ability requires a certain amount of action points to be present in the champion casting them as well as some mana. Also, each ability has a specific range of cells that the target needs to be present in it in order for the ability to affect it.
 
 Leader Abilities:-
+
     At the beginning of the battle, each player promotes one of his champions to be the leader of his team. The leader will then receive a special ability based on his type that can be used only once per battle.
 
 Gameplay Flow:-
